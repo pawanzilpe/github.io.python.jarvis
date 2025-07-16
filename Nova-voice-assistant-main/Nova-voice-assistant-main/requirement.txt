@@ -1,0 +1,38 @@
+google.generativeai 
+SpeechRecognition
+emoji
+texttospeech_v1 from google-cloud
+pywhatkit
+pyautogui
+spotipy
+
+
+
+
+
+
+
+
+
+
+
+
+pip install SpeechRecognition
+
+
+pip install google-generativeai
+pip install google-cloud-texttospeech
+pip install emoji
+pip install requests
+pip install pywhatkit
+pip install pyautogui
+pip install playsound
+pip install python-dotenv
+pip install pipwin
+pipwin install pyaudio
+
+
+
+
+pip install -r requirements.txt
+

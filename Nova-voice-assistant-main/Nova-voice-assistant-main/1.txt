@@ -1,0 +1,75 @@
+pip install python-dotenv
+
+
+# Step 2: सभी जरूरी लाइब्रेरीज़ इंस्टॉल करो
+pip install google-generativeai
+pip install google-cloud-texttospeech
+pip install SpeechRecognition
+pip install emoji
+pip install requests
+pip install pywhatkit
+pip install pyautogui
+pip install playsound
+pip install python-dotenv
+pip install pyaudio
+
+
+
+
+
+
+
+
+
+
+
+
+pip install pipwin
+pipwin install pyaudio
+
+
+
+
+python
+>>> import google.generativeai
+>>> import speech_recognition
+>>> import emoji
+>>> import requests
+>>> import pywhatkit
+>>> import pyautogui
+>>> import playsound
+>>> import dotenv
+>>> import pyaudio
+>>> exit()
+
+
+
+ pip install sr  
+
+
+ pip install Recognizer
+
+# 🌟 Nova - Your Personal Voice Assistant
+
+Nova is a fast and versatile voice assistant written in Python that can handle daily tasks seamlessly using voice commands.
+
+---
+
+## 🚀 Highlights
+- 🔹 Completely written in Python
+- 🔹 Integrates **Gemini Pro** via `genai` API
+- 🔹 Uses `SpeechRecognition` for voice input
+- 🔹 Supports multiple APIs for diverse tasks:
+  - Weather updates
+  - Messaging on WhatsApp
+  - Music playback via Spotify
+
+---
+
+## 🛠️ Getting Started
+
+```bash
+$ git clone https://github.com/ananyab1909/Nova-voice-assistant.git
+$ cd Nova-voice-assistant
+$ pip install -r requirements.txt
+$ python main.py
