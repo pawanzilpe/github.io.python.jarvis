@@ -1,0 +1,36 @@
+python jarvis.py
+python -m pip install --upgrade pip
+pip install SpeechRecognition
+python jarvis.py
+
+
+
+
+
+pip install gTTS playsound
+python jarvish.py
+
+
+
+
+
+pip install kivy
+pip install kivy[base] kivy[full]
+
+
+sudo apt update
+sudo apt install python3-pip build-essential git python3 python3-dev ffmpeg
+pip install buildozer
+
+
+
+wsl --install
+
+
+sudo apt update
+sudo apt install python3-pip build-essential git ffmpeg
+pip3 install buildozer
+
+
+buildozer init
+buildozer -v android debug
